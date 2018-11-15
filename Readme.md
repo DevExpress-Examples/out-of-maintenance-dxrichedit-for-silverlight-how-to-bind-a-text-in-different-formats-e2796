@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/BindingConverterSL/MainPage.xaml) (VB: [MainPage.xaml](./VB/BindingConverterSL/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/BindingConverterSL/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/BindingConverterSL/MainPage.xaml))
+<!-- default file list end -->
 # DXRichEdit for Silverlight: How to bind a text in different formats
 
 
